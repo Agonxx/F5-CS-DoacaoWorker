@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DoacaoWorker.Worker/DoacaoWorker.Worker.csproj" />
+  <Project Path="DoacaoWorker.Application/DoacaoWorker.Application.csproj" />
+  <Project Path="DoacaoWorker.Domain/DoacaoWorker.Domain.csproj" />
+  <Project Path="DoacaoWorker.Infrastructure/DoacaoWorker.Infrastructure.csproj" />
+  <Project Path="DoacaoWorker.Tests/DoacaoWorker.Tests.csproj" />
+</Solution>
